@@ -1,0 +1,20 @@
+h1 {
+  font-size: 165%;
+  font-weight: normal;
+}
+
+p {
+  color: blue;
+}
+
+footer p {
+  color: orange;
+}
+
+body footer p {
+  color: red;
+}
+
+.highlight {
+  color: purple;
+}
